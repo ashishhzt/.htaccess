@@ -1,2 +1,2 @@
-# Boiler_Plates
+## htaccess file for popular CMS
 Web Boilerplates 
